@@ -1,0 +1,6 @@
+.selected_page {
+  background-color: rgb(220, 220, 220);
+}
+.pagination_disabled {
+  opacity: 0;
+}
